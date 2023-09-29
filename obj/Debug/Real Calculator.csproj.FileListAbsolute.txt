@@ -1,0 +1,10 @@
+D:\c++ projects\Real Calculator\bin\Debug\Real Calculator.exe.config
+D:\c++ projects\Real Calculator\bin\Debug\Real Calculator.exe
+D:\c++ projects\Real Calculator\bin\Debug\Real Calculator.pdb
+D:\c++ projects\Real Calculator\obj\Debug\Real Calculator.csproj.AssemblyReference.cache
+D:\c++ projects\Real Calculator\obj\Debug\Real_Calculator.Form1.resources
+D:\c++ projects\Real Calculator\obj\Debug\Real_Calculator.Properties.Resources.resources
+D:\c++ projects\Real Calculator\obj\Debug\Real Calculator.csproj.GenerateResource.cache
+D:\c++ projects\Real Calculator\obj\Debug\Real Calculator.csproj.CoreCompileInputs.cache
+D:\c++ projects\Real Calculator\obj\Debug\Real Calculator.exe
+D:\c++ projects\Real Calculator\obj\Debug\Real Calculator.pdb
